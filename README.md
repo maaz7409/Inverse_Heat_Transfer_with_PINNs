@@ -43,7 +43,7 @@ this-project/
 
 ## Authors
 
-@maaz7409
+[@maaz7409](https://github.com/maaz7409)
 
-@KeshavKumar-0
+[@KeshavKumar-0](https://github.com/KeshavKumar-0)
 
